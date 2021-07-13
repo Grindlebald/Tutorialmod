@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xgx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "tutorial:ruby_block"
+    },
+    "g":
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result":
+  {
+    "item": "tutorial:ruby_apple",
+    "count": 1
+  }
+}

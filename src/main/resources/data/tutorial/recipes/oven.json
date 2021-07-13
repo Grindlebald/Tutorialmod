@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xfx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "tutorial:ruby_block"
+    },
+    "x":
+    {
+      "item": "minecraft_furnace"
+    }
+  },
+  "result":
+  {
+    "item": "tutorial:oven",
+    "count": 1
+  }
+}
